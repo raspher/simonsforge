@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>dev@simonsforge.pl</email>
+		<name>Szymon Scholz</name>
+	</maintainer>
+	<use>
+		<flag name="gtk48" restrict=">=gui-libs/gtk-4.8">Changes how the background image fits the screen</pkg></flag>
+	</use>
+	<upstream>
+		<remote-id type="github">rharish101/ReGreet</remote-id>
+	</upstream>
+</pkgmetadata>
